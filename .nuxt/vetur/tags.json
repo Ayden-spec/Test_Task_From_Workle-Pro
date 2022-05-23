@@ -1,0 +1,11 @@
+{
+  "Card": {
+    "description": "Auto imported from components/Card.vue"
+  },
+  "MainPage": {
+    "description": "Auto imported from components/MainPage.vue"
+  },
+  "Pagination": {
+    "description": "Auto imported from components/Pagination.vue"
+  }
+}
